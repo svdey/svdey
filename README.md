@@ -1,7 +1,7 @@
 <!-- # Hi there, I'm Sourav 👋 -->
 
 <h1 align="center">Hi 👋, I'm Sourav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 
 <p><img align="center" width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=svdey&" alt="svdey" /></p>
