@@ -4,12 +4,12 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-<p><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=svdey&" alt="svdey" /></p>
+<p><img align="center" width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=svdey&" alt="svdey" /></p>
 
 
-<img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=svdey&show_icons=true&theme=radical"/>
+<img align="left"  width="51%" src="https://github-readme-stats.vercel.app/api?username=svdey&show_icons=true&theme=radical"/>
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svdey&layout=compact"/>
+<img align="left" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svdey&layout=compact"/>
 
 
 - 📄 Know about my experiences [https://svdey.github.io/](https://svdey.github.io/)
